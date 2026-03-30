@@ -5,7 +5,7 @@ This project is a **Flipkart landing page clone** built **entirely from scratch*
 
 I created this project as part of my frontend learning journey. The main goal was to deeply understand **web layouts, styling techniques, and animations** by implementing everything manually.
 
-🔗 **Live Demo:** [View Website](YOUR_LIVE_LINK_HERE)
+🔗 **Live Demo:** [View Website](https://shrutipandya3.github.io/Flipkart-Landing-Page-Clone/)
 
 ---
 
